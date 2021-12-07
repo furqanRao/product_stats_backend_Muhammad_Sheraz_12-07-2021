@@ -1,0 +1,1 @@
+web: gunicorn product_stats_Muhammad_Sheraz.wsgi --log-file -
